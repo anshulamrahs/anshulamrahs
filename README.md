@@ -13,8 +13,6 @@ I'm currently working on a Small Business Website.<br>I'm learning React Js, Nex
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshulamrahs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulamrahs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=anshulamrahs)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
