@@ -14,9 +14,6 @@ I'm currently working on a Small Business Website.<br>I'm learning React Js, Nex
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulamrahs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=anshulamrahs&icon=0&color=0)](https://visitcount.itsvg.in)
 
