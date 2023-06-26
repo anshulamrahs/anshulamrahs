@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working on a Small Business Website.<br>I'm learning React Js, Next Js, and Three Js.<br>I'm Based in India.
+I'm currently working as a Freelance web Developer.<br>I'm presently on the path to learning Next Js, and Three Js.<br>I'm Based in India.
 
 
 ## 🌐 Socials:
