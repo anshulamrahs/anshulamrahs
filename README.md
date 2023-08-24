@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working as a Freelance Frontend Developer.<br>I'm presently on the path to learning Next Js, and Three Js.<br>I'm Based in India.
+Freelance Frontend Developer.<br>Learning Next Js, and Three Js.<br>Based in India.
 
 
 ## 🌐 Socials:
