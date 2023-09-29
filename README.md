@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Freelance Frontend Developer.<br>Learning Next Js, and Three Js.<br>Based in India.
+Freelance Frontend Developer.<br>Javascript| React JS | Next Js | Typescript.<br>Based in India.
 
 
 ## 🌐 Socials:
